@@ -1,4 +1,4 @@
-name: Show Files on Push
+name: Test Workflow
 
 on:
   workflow_dispatch:
